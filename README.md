@@ -1,4 +1,4 @@
-Personal Portfolio Website
+My Portfolio Website
 
 Welcome to my first personal portfolio website, built using HTML5 and CSS3. This 2-page website showcases my professional profile, skills, experience, projects, and contact information.
 
